@@ -1,1 +1,1 @@
-# spell-check-action
+# code formatting-checker-action
